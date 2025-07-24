@@ -1025,3 +1025,4 @@ chmod +x salon
 chmod +x salon
 chmod +x salon.sh
 ./salon.sh
+git add .
